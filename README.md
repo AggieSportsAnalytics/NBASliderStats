@@ -1,4 +1,4 @@
-### A Website with Personalized NBA Statsitics 
+### A Website with Personalized NBA Statistics 
 
 
 SliderStats is the all-in-one website that allows users to compare an unlimited number of stats between players. Users can weigh each stat, providing a completely customizable and more importantly, an objective approach to comparing performance metrics. Any basketball fan, ranging from the average casual to full-time ESPN analyst can benefit from SliderStats.
@@ -9,7 +9,7 @@ Visit our website: <b><a href="https://sliderstats.streamlit.app/" target="_blan
 
 # Features
 
-## Multitude of Statstics 
+## Multitude of Statistics 
 
 - **Per Game Stats:** Analyze player and team performance on a per-game basis.
 - **Total Stats:** View cumulative statistics for players and teams.
@@ -28,7 +28,7 @@ Visit our website: <b><a href="https://sliderstats.streamlit.app/" target="_blan
 
 - **Year:** Filter ranking by year.
 - **Position:** Filter ranking by position.
-- **Statstics:** Choose which statistics to use.
+- **Statistics:** Choose which statistics to use.
 - **Range of Stats:** Specify the range for each of your stats.
 
 <img width="600" alt="image" src="https://github.com/AggieSportsAnalytics/NBASliderStats/blob/main/images/filtertop.png">
@@ -44,7 +44,7 @@ After filtering and adjusting sliders, see the final rankings of players/teams a
 
 For our data, we use an API from github called nba_api which provides continuously updated data from the NBA's most current games and even games from decades before.
 
-We use a variety of Python libraries, such as Pandas and Streamlit, to format and display the statsitics. Below is a snippet of the code used to filter statstics. 
+We use a variety of Python libraries, such as Pandas and Streamlit, to format and display the statistics. Below is a snippet of the code used to filter statistics. 
 
 for stat in selected_stats_per_game:
         sliders[stat] = st.sidebar.slider(f'Importance of {stat}', -1.0, 1.0, 0.5, 0.01)
