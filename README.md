@@ -23,6 +23,10 @@ Visit our website: <b><a href="https://sliderstats.streamlit.app/" target="_blan
 
 <img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/scoreboard/blob/fb976cf6f3b769d093f4f8916aa507133c3da04c/images/seven_stats.png">
 
+## Player Rankings
+
+- **After filtering and adjusting sliders, see the final rankings of players/teams and their stats.**
+
 ## Filtering
 
 - **Year:** Filter ranking by year.
