@@ -21,7 +21,8 @@ Visit our website: <b><a href="https://sliderstats.streamlit.app/" target="_blan
 
 - **Interactive Sliders:** Use sliders to filter and explore data interactively.
 
-<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASliderStats/blob/main/images/sliders.png">
+<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASliderStats/blob/main/images/range.png">
+<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASliderStats/blob/main/images/rank.png">
 
 ## Filtering
 
@@ -30,7 +31,8 @@ Visit our website: <b><a href="https://sliderstats.streamlit.app/" target="_blan
 - **Statstics:** Choose which statistics to use.
 - **Range of Stats:** Specify the range for each of your stats.
 
-<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASliderStats/blob/main/images/filter.png">
+<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASliderStats/blob/main/images/filtertop.png">
+<img width="990" alt="image" src="https://github.com/AggieSportsAnalytics/NBASliderStats/blob/main/images/filterbottom.png">
 
 ## Player Rankings
 
